@@ -1,5 +1,5 @@
 # kaggle-dappling-in-ml
 
-![image](https://user-images.githubusercontent.com/103385201/184052378-8ee6a684-bf3a-49b9-96a4-1439226737a2.png)
+![image](https://user-images.githubusercontent.com/103385201/184052150-f8cd1765-b206-4af3-aa0f-4990dd633f83.png)
 
 Testing out ml models inspired by kaggle intro to ml course. Specifically, random forests and decision trees.
